@@ -1,7 +1,9 @@
 # 🚀 AUTHENTICATION SYSTEM
 
 ![Authentication System Banner](assets/banner.png)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=A+Secure+Modern+Authentication+System;Node.js+•+Express+•+Passport+•+JWT+•+MySQL;Cyberpunk+Edition" />
+</p>
 > A secure, modern, token-based authentication system built with  
 > **Node.js • Express • Passport • JWT • MySQL**
 
