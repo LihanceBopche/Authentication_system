@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00F7FF"/>
 </p>
 
-> A secure, modern, token-based authentication system built with  
-> **Node.js • Express • Passport • JWT • MySQL**
-
 ---
 
 ## 🌌 Project Vision
