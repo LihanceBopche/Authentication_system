@@ -89,6 +89,21 @@ auth-system/
 
 
 ---
+## 🖥️ Application Screens
+
+### 🔐 Login Page
+![Login UI](assets/login.png)
+
+### 📝 Registration Page
+![Register UI](assets/register.png)
+
+### 🔁 Forgot Password
+![Forgot UI](assets/forgot.png)
+
+### 🚀 Dashboard
+![Dashboard UI](assets/dashboard.png)
+
+---
 
 # ⚙️ USER MANUAL — COMPLETE GUIDE
 
