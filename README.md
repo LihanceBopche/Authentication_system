@@ -1,9 +1,7 @@
 # 🚀 AUTHENTICATION SYSTEM
 
 ![Authentication System Banner](assets/banner.png)
-<p align="center">
-  <img src="assets/banner.png" width="100%" />
-</p>
+
 > A secure, modern, token-based authentication system built with  
 > **Node.js • Express • Passport • JWT • MySQL**
 
