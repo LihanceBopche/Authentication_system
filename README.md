@@ -4,6 +4,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=A+Secure+Modern+Authentication+System;Node.js+•+Express+•+Passport+•+JWT+•+MySQL;Cyberpunk+Edition" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Passport-0f172a?style=for-the-badge&logo=passport&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/JWT-020617?style=for-the-badge&logo=jsonwebtokens&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00F7FF"/>
+</p>
 > A secure, modern, token-based authentication system built with  
 > **Node.js • Express • Passport • JWT • MySQL**
 
