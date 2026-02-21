@@ -92,7 +92,7 @@ auth-system/
 ## 🖥️ Application Screens
 
 ### 🔐 Login Page
-![Login UI](assets/login.png)
+![Login UI](assets/index.png)
 
 ### 📝 Registration Page
 ![Register UI](assets/register.png)
