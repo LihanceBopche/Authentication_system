@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reset Password</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .password-field {
+  position: relative;
+  width: 100%;
+}
+
+.password-field input {
+  padding-right: 45px;
+}
+
+.password-field .toggle {
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 18px;
+  opacity: 0.6;
+  transition: 0.3s;
+  user-select: none;
+}
+
+.password-field .toggle:hover {
+  opacity: 1;
+  text-shadow: 0 0 8px rgba(255,255,255,0.8);
+  transform: translateY(-50%) scale(1.1);
+}
+  </style>
+</head>
+
+<body>
+
+<div class="container">
+  <h2>Reset Password</h2>
+
+  <input id="email" placeholder="Enter your email">
+  <div class="password-field">
+    <input id="newPassword" type="password" placeholder="New Password" />
+    <span class="toggle" onclick="togglePassword2()">👁</span>
+  </div>
+  <button onclick="resetPasswordSimple()">Update Password</button>
+
+  <p id="msg"></p>
+</div>
+<script>
+    function togglePassword2() {
+  const passField = document.getElementById("newPassword");
+  const toggleBtn = document.querySelector(".toggle");
+
+  if (passField.type === "password") {
+    passField.type = "text";
+    toggleBtn.innerText = "🙈";
+  } else {
+    passField.type = "password";
+    toggleBtn.innerText = "👁";
+  }
+}
+</script>
+<script src="app.js"></script>
+</body>
+</html>
